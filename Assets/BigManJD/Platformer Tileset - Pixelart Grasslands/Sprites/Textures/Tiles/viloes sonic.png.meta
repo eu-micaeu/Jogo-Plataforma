@@ -1,0 +1,2358 @@
+fileFormatVersion: 2
+guid: b2d2c1a7649f3b8439a48e016791346f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: viloes sonic_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 669
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6378b109e87ce4eb7a2fd36cba3490
+      internalID: 108762081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 639
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c49600ed760774c86212bb17108edb
+      internalID: -950699419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 639
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d86065f362bc347ab36fe5d58f8f07
+      internalID: -1203511348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 639
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a70a121cdafb64da5cf9c4c1c97b3c
+      internalID: 999493385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 639
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0055b958d75fc34e860e60e5350447d
+      internalID: 1425402381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 638
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e01e8da61b8f14087616645c15447b
+      internalID: -768031184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 601
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406d9f10e34d78d48b92378b63151995
+      internalID: 1659037380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 601
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6df480159e9b3048ac9a4b7516ec886
+      internalID: 326671815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 601
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc5b097b6e99a24496a62d49e42cb2f
+      internalID: -1547417745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 601
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e8bf70993019a43b67830cbee7f978
+      internalID: -358054742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 601
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e215d4e3288aa44d89e0e7a4debed55
+      internalID: -1958926532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_11
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 601
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2238281609c1be4fba079445b087248
+      internalID: -1520814634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 601
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4461cdda2d2d33a4eabbb20567256614
+      internalID: -725111626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 567
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d4c5a33045f2544b96bafc8739fbdb
+      internalID: -2048560408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 567
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db54624d25617c447b678f72bc7a6050
+      internalID: -1469821613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 566
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c39910857206141bd26a61c78b7f49
+      internalID: 299383138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 566
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea97a2ed74ab9a4f86dcbee623c8b60
+      internalID: -539540036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_17
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 574
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d748e1babd6f447b73ce849cec5c93
+      internalID: -992833668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 573
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4d6b8ea0c1cc14cb504a5ec0a1a5cb
+      internalID: -1926010498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 563
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348d09ff1cda04b4589174a69962d725
+      internalID: 1751136374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 563
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c92d2688800d345a8d5529ef8d07c7
+      internalID: 1154394778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 532
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9728bc9c7bd2c86488346ffd5da7811c
+      internalID: 1692351791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 534
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c332ff05b1c5664babd02c3f7d14d50
+      internalID: -1396660494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 542
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dc3718fa41f0a4b816d82120e39651
+      internalID: 2108014054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 552
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cca6d2f5359314c81b3aa39220dba9
+      internalID: -1640615422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_25
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 551
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ab732eb941dd84087012ed84ad2f38
+      internalID: -1790918943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 541
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b4882f542d4e741aeb7f58d3c55305
+      internalID: -1376501053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 540
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c1d0e8b9db03e42be289902b92f710
+      internalID: 2051304938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_28
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 541
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c917198a1545ab94eb5591fee5233030
+      internalID: -556323163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 491
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3771dd8567cf5c24b9948dc8641c75b1
+      internalID: -83104136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 492
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344e2515732536244ab7980f4934d996
+      internalID: -766521552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 492
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccf3c94e35fa6f4a9d3fc74253faba7
+      internalID: -1120663109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 455
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739be02baafcf514d957a4b606828b33
+      internalID: 103853520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 455
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e87275a916df419c2982e0be4bebc
+      internalID: 176479566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 456
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb818ef4aaf1de44947a4353f41008e
+      internalID: -424220055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_35
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 455
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbcb24130ea266458646443857c9da5
+      internalID: 657222304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 455
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3831c9cb1ccef40aed3661d0a2671f
+      internalID: 210790040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_37
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 456
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a629cfa67232b434f91be3e7add4dae8
+      internalID: -1244759076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_38
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 408
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374c9804c83377745a952bca69a0b68c
+      internalID: -1785333660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_39
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 408
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548331eb5d0f77244a8dfdabf62c7316
+      internalID: -1259819633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_40
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 408
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf2e0311d3adae4eababb287cf272db
+      internalID: -164323357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 409
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0edf6565eccf6c41818526338352e18
+      internalID: 226666865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_42
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 365
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36a284f2746a4a4690d51bffc8831cb
+      internalID: 737434108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 366
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a73ce2f431cdd4a897cb18fec24834
+      internalID: -1460067194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_44
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 369
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af3a11f5c8ec3842bdeae9a3f781340
+      internalID: -768210754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 377
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360e92dbf91e3644288661805a45ffec
+      internalID: -1372977705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_46
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 375
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6908000d8a633f14ba162a2af331a086
+      internalID: 708062126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 376
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583af92b48f19b0478284502647bfbd9
+      internalID: -1118490360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 394
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd1b6e94f664f646ba304501234cdc1
+      internalID: 991470496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_49
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 378
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722e5f2e04ded4448956f4decc8b8889
+      internalID: 1785840119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_50
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 386
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e54f3a2218fed43a861d87c8a21cf9
+      internalID: 1012057499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_51
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 378
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc49f5e7a12ed843b706442ca8ce02b
+      internalID: -1544073733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 331
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31e5e0812027f3448a93fe7fdeb51cb
+      internalID: -2053311611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 331
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afc8eec383b86345ae410ab231a7e80
+      internalID: 899386853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_54
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 331
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023d1d5da31343d4c8f1c71ed3d89d9f
+      internalID: -507182853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_55
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 297
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b7a465e61a14c4b971076ac4702c2e
+      internalID: 1418854152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_56
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 297
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f91875b002ea62469bf1834074371ac
+      internalID: -1011851980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_57
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 297
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac4961b96d0802468cd70813b09fb63
+      internalID: 653506085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 297
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979fba756c1aa1b4c8e31ced54923c26
+      internalID: -1550147510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_59
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 297
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8233c7f24d909184eb7a1d800055cfcb
+      internalID: 1069352298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_60
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 297
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64340f05bcd2a034da9b1d40f85c7bf5
+      internalID: -421947597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_61
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 246
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc18d458ca2f9647a7b01f796e9c5ea
+      internalID: -132434765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_62
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 246
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d132297194c7e414985f7cd2e06865af
+      internalID: 805416875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_63
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 246
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8858da9e76e2040a378d76342f4c04
+      internalID: 1540075524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 246
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab84bdd1605d5b24ab4af52d87fff655
+      internalID: -207419714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_65
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 248
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d012b03112b12648a77231d8d263e1e
+      internalID: 504790756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_66
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 246
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf0f7e84e8f91349bfc19417eda5bdd
+      internalID: 898024572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 216
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b57c6af8aafe7040bc4c32fe27b178b
+      internalID: -1104738977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_68
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 213
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dfcfd4a87ec3c4cb5d4997c9f87ebf
+      internalID: 1919398158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_69
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eed17fd29ba194c926c410bb8fe6b2
+      internalID: 1944939447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_70
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 216
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e609d33abca1348b383c9fb8e74dca
+      internalID: -766107214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 180
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9124ce3279a3afd419c87bc2ca7978f7
+      internalID: 1264741715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_72
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 173
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46166e7ba3386114fa50aa34785f7468
+      internalID: 341527714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_73
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 180
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81db9e54929b3ec488bd8b7e642c6ebb
+      internalID: -16522729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_74
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 180
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7d1bc3e37e59247aae272e3ff3415f
+      internalID: 889864532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_75
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 181
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3318e7fc357064cbd19df6c2097e20
+      internalID: 1852494343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_76
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 180
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeb4e0d993344d4bbe5c8c452163643
+      internalID: -562692063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_77
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 174
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf1340eaafb2b54b90b0efe15d52561
+      internalID: 1919767004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 139
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5b072269444ea4e977208505d776eb
+      internalID: -378202076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 139
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504326948012eab4f9faac9dad83751c
+      internalID: -1899829256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_80
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 88
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca3b25f2311e9f4ca3829384abbb72c
+      internalID: -259977643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_81
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 88
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482ae1d265ba1f344a0c32c9c1da6212
+      internalID: -442843558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7fcf03e1c5fcc45ab9bef9e9a940b4
+      internalID: -1578777716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 88
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabc1b8cabb8a354a859f55132b1a7c9
+      internalID: -1948846039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_84
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 88
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14603922581f5a45b5c202895fab803
+      internalID: -1612264053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_85
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 88
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398f2bdbefe9da3459766d0d4fc5d457
+      internalID: -1753115372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_86
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 88
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ed9f8b9691c5840a290dc3c40805c4
+      internalID: 1802450360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_87
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 88
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07493890928a5034c947c424adb70aa9
+      internalID: -752900769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_88
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 57
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6311089cae3d7428fb07ad717d638f
+      internalID: 920671706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_89
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 57
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92251126aa4e184c9dca327a55cd152
+      internalID: 20363993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 57
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021237df506958947968d42b4f0bc76d
+      internalID: -1069952246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_91
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 57
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d547e404ffbdfbc4c8b33fc3b669b2a9
+      internalID: 1276937457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_92
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237eb3a4e1f7a184ba1014cd24e92774
+      internalID: -1837130847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_93
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 16
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeac9abcc89e02e40bb7b2cd90da9978
+      internalID: -558209049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_94
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 16
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7a439c6ec298a4fa4bb5e71628cae8
+      internalID: -1729241723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_95
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 16
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacbee129dc5da6498181c51657a6c04
+      internalID: -731490028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_96
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 17
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6af87c73ecc6946aba279ee8b38f07
+      internalID: -1050476438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_97
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 16
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec7b77999d01c54fb64c844ddc6c62a
+      internalID: 1617170686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_98
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 16
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e11835529c7afa41909fd700c4a4d1d
+      internalID: -1808661063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_99
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ca9dfe2a71703459b853970817b4e5
+      internalID: -447120230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_100
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6bff888d1ca3c43a5811f3f40eae0e
+      internalID: 1397536112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viloes sonic_101
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3533682cc1f991a42b68c5d6975aebe6
+      internalID: 1405508352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      viloes sonic_0: 108762081
+      viloes sonic_1: -950699419
+      viloes sonic_10: -1958926532
+      viloes sonic_100: 1397536112
+      viloes sonic_101: 1405508352
+      viloes sonic_11: -1520814634
+      viloes sonic_12: -725111626
+      viloes sonic_13: -2048560408
+      viloes sonic_14: -1469821613
+      viloes sonic_15: 299383138
+      viloes sonic_16: -539540036
+      viloes sonic_17: -992833668
+      viloes sonic_18: -1926010498
+      viloes sonic_19: 1751136374
+      viloes sonic_2: -1203511348
+      viloes sonic_20: 1154394778
+      viloes sonic_21: 1692351791
+      viloes sonic_22: -1396660494
+      viloes sonic_23: 2108014054
+      viloes sonic_24: -1640615422
+      viloes sonic_25: -1790918943
+      viloes sonic_26: -1376501053
+      viloes sonic_27: 2051304938
+      viloes sonic_28: -556323163
+      viloes sonic_29: -83104136
+      viloes sonic_3: 999493385
+      viloes sonic_30: -766521552
+      viloes sonic_31: -1120663109
+      viloes sonic_32: 103853520
+      viloes sonic_33: 176479566
+      viloes sonic_34: -424220055
+      viloes sonic_35: 657222304
+      viloes sonic_36: 210790040
+      viloes sonic_37: -1244759076
+      viloes sonic_38: -1785333660
+      viloes sonic_39: -1259819633
+      viloes sonic_4: 1425402381
+      viloes sonic_40: -164323357
+      viloes sonic_41: 226666865
+      viloes sonic_42: 737434108
+      viloes sonic_43: -1460067194
+      viloes sonic_44: -768210754
+      viloes sonic_45: -1372977705
+      viloes sonic_46: 708062126
+      viloes sonic_47: -1118490360
+      viloes sonic_48: 991470496
+      viloes sonic_49: 1785840119
+      viloes sonic_5: -768031184
+      viloes sonic_50: 1012057499
+      viloes sonic_51: -1544073733
+      viloes sonic_52: -2053311611
+      viloes sonic_53: 899386853
+      viloes sonic_54: -507182853
+      viloes sonic_55: 1418854152
+      viloes sonic_56: -1011851980
+      viloes sonic_57: 653506085
+      viloes sonic_58: -1550147510
+      viloes sonic_59: 1069352298
+      viloes sonic_6: 1659037380
+      viloes sonic_60: -421947597
+      viloes sonic_61: -132434765
+      viloes sonic_62: 805416875
+      viloes sonic_63: 1540075524
+      viloes sonic_64: -207419714
+      viloes sonic_65: 504790756
+      viloes sonic_66: 898024572
+      viloes sonic_67: -1104738977
+      viloes sonic_68: 1919398158
+      viloes sonic_69: 1944939447
+      viloes sonic_7: 326671815
+      viloes sonic_70: -766107214
+      viloes sonic_71: 1264741715
+      viloes sonic_72: 341527714
+      viloes sonic_73: -16522729
+      viloes sonic_74: 889864532
+      viloes sonic_75: 1852494343
+      viloes sonic_76: -562692063
+      viloes sonic_77: 1919767004
+      viloes sonic_78: -378202076
+      viloes sonic_79: -1899829256
+      viloes sonic_8: -1547417745
+      viloes sonic_80: -259977643
+      viloes sonic_81: -442843558
+      viloes sonic_82: -1578777716
+      viloes sonic_83: -1948846039
+      viloes sonic_84: -1612264053
+      viloes sonic_85: -1753115372
+      viloes sonic_86: 1802450360
+      viloes sonic_87: -752900769
+      viloes sonic_88: 920671706
+      viloes sonic_89: 20363993
+      viloes sonic_9: -358054742
+      viloes sonic_90: -1069952246
+      viloes sonic_91: 1276937457
+      viloes sonic_92: -1837130847
+      viloes sonic_93: -558209049
+      viloes sonic_94: -1729241723
+      viloes sonic_95: -731490028
+      viloes sonic_96: -1050476438
+      viloes sonic_97: 1617170686
+      viloes sonic_98: -1808661063
+      viloes sonic_99: -447120230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
