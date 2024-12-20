@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micae\\Documents\\GitHub\\Jogo-Plataforma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micae\\Documents\\GitHub\\Jogo-Plataforma\\Assets\\Scripts\\scriptCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\scriptCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micae\\Documents\\GitHub\\Jogo-Plataforma\\Assets\\Scripts\\scriptChegada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\scriptChegada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micae\\Documents\\GitHub\\Jogo-Plataforma\\Assets\\Scripts\\scriptNpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\scriptNpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micae\\Documents\\GitHub\\Jogo-Plataforma\\Assets\\Scripts\\scriptPc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\scriptPc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scriptCamera.cs",
+              "DocumentMoniker": "C:\\Users\\micae\\Documents\\GitHub\\Jogo-Plataforma\\Assets\\Scripts\\scriptCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\scriptCamera.cs",
+              "ToolTip": "C:\\Users\\micae\\Documents\\GitHub\\Jogo-Plataforma\\Assets\\Scripts\\scriptCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\scriptCamera.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T22:47:10.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "scriptChegada.cs",
+              "DocumentMoniker": "C:\\Users\\micae\\Documents\\GitHub\\Jogo-Plataforma\\Assets\\Scripts\\scriptChegada.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\scriptChegada.cs",
+              "ToolTip": "C:\\Users\\micae\\Documents\\GitHub\\Jogo-Plataforma\\Assets\\Scripts\\scriptChegada.cs",
+              "RelativeToolTip": "Assets\\Scripts\\scriptChegada.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T22:25:28.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "scriptPc.cs",
+              "DocumentMoniker": "C:\\Users\\micae\\Documents\\GitHub\\Jogo-Plataforma\\Assets\\Scripts\\scriptPc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\scriptPc.cs",
+              "ToolTip": "C:\\Users\\micae\\Documents\\GitHub\\Jogo-Plataforma\\Assets\\Scripts\\scriptPc.cs",
+              "RelativeToolTip": "Assets\\Scripts\\scriptPc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T22:18:36.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "scriptNpc.cs",
+              "DocumentMoniker": "C:\\Users\\micae\\Documents\\GitHub\\Jogo-Plataforma\\Assets\\Scripts\\scriptNpc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\scriptNpc.cs",
+              "ToolTip": "C:\\Users\\micae\\Documents\\GitHub\\Jogo-Plataforma\\Assets\\Scripts\\scriptNpc.cs",
+              "RelativeToolTip": "Assets\\Scripts\\scriptNpc.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T20:27:23.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
